@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Love Live! Nijigasaki</string>
+    <string name="desc">"A third-year student at Nijigasaki High School. Her looks and proportions go beyond the norm for high-schoolers, and she's submitted photos to fashion magazines. Despite her grown-up looks, she can be surprisingly pure and innocent"</string>
+    <string name="lipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+    <string name="bio">\"Jangan takut dan terus tuju impianmu\"</string>
+    <string name="colon">&#160; : &#160;</string>
+    <string name="birthday">Birthday</string>
+    <string name="year">Year</string>
+    <string name="blood_type">Blood Type</string>
+    <string name="height">Height</string>
+    <string name="profile">Profile</string>
+    <string name="info">Info</string>
+    <string name="ok">OK</string>
+    <string name="desc_app">Hallo Minasan! Aplikasi ini adalah aplikasi untuk menampilkan list dan detail character dari anime Love Live! Nijigasaki High School Idol Club. Semua list character bersumber dari website fandom https://love-live.fandom.com.</string>
+    <string name="background">Background</string>
+    <string name="personality">Personality</string>
+    <string name="video">Video</string>
+    <string name="song">Song</string>
+    <string name="_0_00">0.00</string>
+    <string name="slash">/</string>
+    <string name="references">References</string>
+    <string name="link_github">Github</string>
+    <string name="email">hadifirmansyah48@gmail.com</string>
+    <string name="nama">Hadi Firmansyah</string>
+</resources>
