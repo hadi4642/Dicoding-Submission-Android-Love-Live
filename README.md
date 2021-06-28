@@ -11,22 +11,12 @@ width="256">&nbsp;&nbsp;&nbsp;
 width="256">&nbsp;&nbsp;&nbsp;
 
 
-   <img src="assets/profile.jpg"
-        alt="Profile Screen"    
-        style="margin-right: 10px;"    
-        width="200" />
-    <img src="assets/detail.jpg"
-        alt="Detail"    
-        style="margin-right: 10px;"    
-        width="200" />
-    <img src="assets/detail2.jpg"
-        alt="Detail 2"    
-        style="margin-right: 10px;"    
-        width="200" />
-    <img src="assets/detail3.jpg"
-        alt="Detail 3"    
-        style="margin-right: 10px;"    
-        width="200" />
+<img src="assets/profile.jpg"
+width="256">&nbsp;&nbsp;&nbsp;
+<img src="assets/detail.jpg"
+width="256">&nbsp;&nbsp;&nbsp;
+<img src="assets/detail3.jpg"
+width="256">&nbsp;&nbsp;&nbsp;
         
 ## Feature 
 #### Submission Checklists :
