@@ -1,19 +1,15 @@
 # Dicoding-Submission-Android-Love-Live
 Submission Proyek Akhir Dicoding Membuat Aplikasi Sederhana - [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51)
 ## Screenshots
-    <img src="assets/splash.jpg"
-        alt="Splash Screen"    
-        style="margin-right: 10px;"    
-        width="200" />
-    <img src="assets/list_aplikasi.jpg"
-        alt="List"    
-        style="margin-right: 10px;"    
-        width="200" />
-    <img src="assets/info_aplikasi.jpg"
-        alt="Info Aplikasi"    
-        style="margin-right: 10px;"    
-        width="200" />
-    <img src="assets/profile.jpg"
+<img src="assets/splash.jpg"
+width="256">&nbsp;&nbsp;&nbsp;
+<img src="assets/list_aplikasi.jpg"
+width="256">&nbsp;&nbsp;&nbsp;
+<img src="assets/info_aplikasi.jpg"
+width="256">&nbsp;&nbsp;&nbsp;
+
+
+   <img src="assets/profile.jpg"
         alt="Profile Screen"    
         style="margin-right: 10px;"    
         width="200" />
