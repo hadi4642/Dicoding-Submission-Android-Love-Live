@@ -28,8 +28,8 @@ width="256">&nbsp;&nbsp;&nbsp;
         style="margin-right: 10px;"    
         width="200" />
         
-## Feature :
-#### Submission Checklists
+## Feature 
+#### Submission Checklists :
 - [x] Menampilkan informasi dan gambar dalam format list
 - [x] Halaman detail muncul saat item diklik
 - [x] Menampilkan informasi yang relevan saat item diklik
