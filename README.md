@@ -1,4 +1,6 @@
-# Dicoding-Submission-Android-Love-Live
+# Dicoding Submission Android Pemula - Love Live
+[![Platform](https://img.shields.io/badge/platform-Android-green.svg)](http://developer.android.com/index.html) [![Kotlin](https://img.shields.io/badge/kotlin-1.5.10-blue.svg)](http://kotlinlang.org)
+
 Submission Proyek Akhir Dicoding Membuat Aplikasi Sederhana - [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51)
 ## Screenshots
 <img src="assets/splash.jpg"
